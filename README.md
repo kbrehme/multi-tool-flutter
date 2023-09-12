@@ -1,1 +1,3 @@
-# multi-tool-flutter
+# multi_tool
+
+A new Flutter project.
