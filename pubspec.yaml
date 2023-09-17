@@ -9,6 +9,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  getwidget: ^2.0.4
+  accordion: ^2.6.0
 
 dev_dependencies:
   flutter_test:
